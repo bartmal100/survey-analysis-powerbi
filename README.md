@@ -41,15 +41,17 @@ The structure of the report is presented below:
 ![Attitudes and behaviours](screenshots/04_dashboard_attitudes.png)
 
 ### Barriers and willingness to pay
-- "High price" is the most frequent barrier (17 mentions), followed by lack of time to check product information (13) and convenience (11).
-- 14 of 26 respondents would pay at most 10% more for an eco-friendly product, and only 3 would pay up to 30%.
-- 10 respondents would choose the eco product if the price were similar, while 13 would stick to habit or quality regardless of ecology.
+- When it comes to choosing between buying an eco or regular product - 50% of respondents would choose the eco one because of habit or better quality. 38% would buy the eco only if the prices were similar, and 8% would always buy the cheaper one.
+- "High price" is the most frequent barrier (17 mentions), followed by lack of time to check product information (13) and laziness (11).
+- 14 of 26 respondents would pay at most 10% more for an eco-friendly product, and only 3 would pay up to 30%. Also 3 of respondents wouldn't pay no money for a an eco-premium product
+- Factors that would change the responders minds are usually: Health of me and my family and Higher quality of eco product
 ![Barriers and willingness to pay](screenshots/05_dashboard_barriers.png)
 
 ### Motivations and social media
-- The main drivers of pro-environmental behaviour are care for the environment (17), responsibility for future generations (17) and growing climate awareness (16).
+- The main drivers of pro-environmental behaviour are care for the environment (17), responsibility for future generations (17) and growing climate awareness (16). Eco-trends are not very important for the group (only 2 respondents)
 - Government regulations are named by 12 respondents, family and friends by only 4.
 - Respondents often read shared posts (4.2 out of 5), but most see eco content only sometimes (11) or rarely (8).
+- Respondents usually don't think that eco content encourages eco actions (2.73/5), they also didn't learn from the eco initiatives online (2.42/5) and usually did not choose to buy products after social media ads.
 ![Motivations and social media](screenshots/06_dashboard_motivations.png)
 
 ### Relationships
