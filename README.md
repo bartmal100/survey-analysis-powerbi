@@ -62,7 +62,7 @@ The structure of the report is presented below:
 - The groups are small, so these relationships are exploratory only.
 ![Relationships](screenshots/07_dashboard_relationships.png)
 
-A PDF version of the full report is available in [`report/`](report/).
+A PDF version of the full report is available in [`report`](report/report.pdf).
 
 ## Key findings
 
