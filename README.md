@@ -79,8 +79,8 @@ Data preparation was done in Power Query:
 - Fixed mistakes in the table and unified inconsistent answer labels.
 - Converted Likert answers to numbers (1 = strongly disagree ... 5 = strongly agree). Stress items use 1 = never ... 5 = very often.
 - Reverse-scored the four positively worded stress items (6 minus value) and calculated a total stress score (10-50).
-- Calculated a **knowledge score** (0-6) by comparing answers with an answer key; "don't know" counts as incorrect.
-- Calculated **age** (2025 minus year of birth), an **attitude index** (mean of 12 statements) and a **social media eco influence** index (mean of 4 statements).
+- Calculated a knowledge score (0-6) by comparing answers with an answer key; "don't know" counts as incorrect.
+- Calculated age (2025 minus year of birth), an attitude index (mean of 12 statements) and a social media eco influence index (mean of 4 statements).
 - Split multiple-choice answers (up to 3 options) into separate rows, which gives the tables `barriers_long`, `wtp_long` and `drivers_long`.
 - Unpivoted knowledge, attitude and social media questions into long tables for charting.
 - Translated answer labels into English.
